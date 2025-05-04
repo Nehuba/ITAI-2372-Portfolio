@@ -1,0 +1,41 @@
+Focuses on AI Use, Unsolved Issues, and Problems created by AI in the Healthcare/Agriculture Industries.
+
+Healthcare Uses:
+Medical Imaging/Diagnosis: Can identify and compare multiple medical records to identify anomalies in X-Rays, or other medical scans.
+Predictive Analysis/Preventative Care: Predict condition progression/severity, automatically assign treatment plans.
+Personalized Plans: Can access patient records, genetic history, and other variables to personalize treatment plans.
+Administration: Can handle large amounts of data, manage schedules, payment information, and reduce physical documents.
+Drug Discovery: Up to date on current drug/medical licenses for treatments, recommend experimental solutions.
+Remote Monitoring: Automatic patient monitoring, can prevent worsening conditions and immediate responses.
+
+Unsolved Problems:
+Highly Regulated Industry: Lots of rules/regulations, approval for AI may be difficult.
+Integration: Along with regulations, implementation may be very expensive, and require entire database restructuring.
+AI Distrust
+Personal Information: Records, and Monitoring habits may reveal information without consent of the patient.
+Bias: AI may misinterpret information for false diagnosis, unmanaged bias could lead to unfair decisions
+
+Problems Created by AI:
+Job Displacement: AI taking jobs that are repetitive/mundane.
+Overreliance: AI system failures/misdiagnosis puts people at risk.
+Complexity: The more information/data processed, requires more complex models.
+Digital Divide: AI Systems are not affordable, higher-end hospitals may get more expensive, lower-end may get worse treatment.
+
+
+Agriculture Uses:
+Crop Monitoring: Monitor crop health/status automatically
+Preventative Care: Identify unhealthy/diseased plants, suggest preventative measures
+Precision Farming: Can monitor prime conditions, weather, time, health for specific care on each plant.
+Yield Prediction/Supply Optimization: Predict yield based on condition, weather, soil type, season, and prevent plant waste by meeting a target amount.
+
+Unsolved Problems:
+Integration: Initial knowledge of plants/farmer knowledge has to be studied.
+High Cost
+Regulations: Sanitation, and other regulatory services may prevent integration.
+
+Problems Created by AI:
+Job Displacement
+Overreliance
+Digital Divide: High end farms get perfect yields, lower-end may be ignored/lose profit.
+Increased Complexity
+Environmental Impact: AI Infrastructure may cause further pollution, or disruption of a natural environment.
