@@ -1,0 +1,52 @@
+This module focuses on the potential use of AI/Growth of AI in Smart Cities, Unsolved Issues, and Problems Created.
+(Note: A05 Notes-1 is the completed version, other version was submitted earlier and has the same/less content)
+
+Smart Cities: Urban Cities utilizing technology, and vast data into infrastructure for easier convenience, and public administration.
+
+Major Use Cases:
+Smart Traffic:
+- Traffic Monitors/Data can change patterns and redirect traffic for effecient transporation.
+- Accidents and Diversions can have easy re-routing before a clog happens.
+- Better Real Time Monitoring giving updated data to GPS for arrival times, and diversions.
+- Can target specific vehicles, tag activity, and identify locations for use in law enforcement.
+
+Energy Management:
+- Smart Grids can react to environmental/weather changes to redirect energy, reduce costs, and prevent outages.
+- Can predict outages and schedule maintenance ahead of time
+- Can target specific high/low usage areas, and potentially improve effeciency of those locations.
+
+Safety:
+- Smart Surveillance and Data can inform the public of any dangerous areas/accidents
+- Predictive Policing can find high-crime areas based on time, or other trends and assign patrols to those araes
+
+Waste Management:
+- Smart Bins can automatically sort waste, assigning them to proper disposal sites.
+- Recycle Tracking can improve recylcing services, scheduling routes/pickups, and making sure it goes to the right place.
+
+Environmental Monitoring:
+- Quality Alerts for Air/Water can be detected earlier, and automatically send out warnings.
+- Severe Heat/Cold Fronts, or other weather events can be predicted, and precautions can be taken early.
+
+Public Transport:
+- Smart Transport Apps can keep the public informed on current routes, delays, and timetables for better transport.
+- Smart Ticketing can automatically schedule, process payments, and allow access to transport routes ahead of time.
+
+Healthcare:
+- Remote Monitoring can detect accidents, doctors and healthcare workers nearby, and patient information instantly.
+- Smart Hospitals can quickly assign appointments, diagnosis, and professionals related to what's needed.
+
+Citizen Engagement:
+- Apps can allow various service requests for civillians, such as gas, power, police, water accesible nearby.
+- Kiosks can track people, and allow services to be accessed to those without use of applications.
+
+
+Unsolved Problems:
+Integration: Massively Expensive, increased resource cost makes it seem not like a worthy investment.
+Ethical Practices: Properly managed bias/fairness is important, or unfair treatment may be put on different people.
+Regulations: Very strong frameworks are needed for security/safety, as tons of information, including personal information is being collected.
+
+
+Problems made by AI:
+Bias: Demographics, Geographics, and other Stereotypes may lead to tainted data, and unfair treatment.
+Data Breaches: Massive Data collection means any breaches put tons of people at risk.
+Lack of Transparency: May not always be clear on why requests are approved/rejected, causing confusion.
