@@ -1,0 +1,25 @@
+This module began with a general overview of types of AI, and some of their common uses.
+The three main types covered were Artificial Narrow Intelligence, Artificial General Intelligence, and Generative AI.
+
+Artificial Narrow Intelligence:
+Created for a singular purpose, fed limited data for a limited output.
+
+Artificial General Intelligence:
+Theoretical, point where a machine can learn and apply knowledge on its own like a human does.
+
+Generative Artificial Intelligence:
+Generates new content based off pre-existing data.
+
+Machine Learning: Takes inputs and outputs, learning and growing off taught data.
+Use Example: Email Spam Detection (Input: Email) (Output: Spam) (Learns from the input and output to identify spam)
+
+Further Use Examples, AI Evolution:
+Maintenance
+Manual: Reactive, repairs when machine goes down
+Automatic: Proactive, scheduled maintenance for common failures
+AI: Predictive Maintenance, predicts when individual faults may happen, prevents ahead of time
+Generative AI: Generates new tasks to avoid common failures, and schedule based off future failures.
+
+Example of AI Sabotage/Downsides:
+Bad Data/Data Poisoning: Bad or misleading data can be implemented, poisoning an entire model even from small bits.
+Bad Use of Data: Moral/Corrupt use of AI such as leaking private data, identifying faults, breaching security, etc.
