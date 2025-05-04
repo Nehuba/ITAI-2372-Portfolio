@@ -1,0 +1,59 @@
+This module focused specifically on the Finance Industry, covering Uses, Unsolved Issues, and deeper delves into security issues.
+The assignments/case study from this module focus specifically on AI in Fraud Detection.
+
+
+Major Uses of AI in Finance:
+Fraud Detection/Prevention:
+- Biggest Use
+- Can identify irregular patterns, such as locations, times, high amounts, and be personalized based on spending habits.
+     Example: Spender that usually only buys essential groceries, suddenly buys lots of valuable items/cards within a week.
+- More Accurate and Complex than simple systems/human monitoring, ensures better customer safety.
+
+Credit Scoring/Risk Assessments:
+- Determine statistics to measure credit score
+- Can use personal information to identify risk assessments for loans, such as income, owed bills, and other financial situations.
+
+Algorithm Trading:
+- Predictive Algorithms can read recent, and current market trends to predict investments.
+- Sentiment Analysis and situations that may increase/decrease stocks.
+- Manipulative patterns can fake data, and lead to getting stocks increased/decreased.
+
+Customer Service Automation:
+- Financial Advice can be automated based on personal profiles/situations.
+- Products/Plans can be recommended and sold easily to customers, even tailored to their needs to make them more appealing.
+- Automatically schedule appointments and meetings with bankers.
+
+Regulatory Tech:
+- Can Automate full reports of customers, their records, risk assessments, verifications, and anomalies in their data.
+
+Finance Forecasting:
+- Can use Long-Form data to predict patterns in revenue, expenses, growth/shrinkage.
+- Can manage finances for specific resource allocation, and flow of where cash should and shouldn't go.
+
+
+Problems of AI Use in Finance:
+Bias:
+- Most Common Data Abused is Geographic and Demographic
+- Unfair Risk Assessments based on stereotypes/trends that may not apply to specific customers.
+- Bad/Poisoned Financial Advice if any data is set on stereotypes, and general trends rather than personalized information.
+
+Privacy: 
+- Tracking Card Usage Data can be abused, companies basing their decisions on unnecessary payments or conditions.
+- Detailed Records may provide information about habits or a customer's life they may not want to be known.
+
+Transparency:
+- Lack of Transparency increases risk of bad/biased decisions with unclear reasoning.
+
+Data Breaches:
+- Digitalized data is at risk, without safeguards AIs can be prompted to leak sensitive information
+
+Case Studies:
+
+A04 Notes and Case Study: Last 10 Years of Data Breaches
+- Goes over data breaches in the last decade within financial institutions, the causes, relations to AI, and Responses.
+- Cases: Equifax(2017), Capital One(2019), JPMorgan Chase Bank(2014), First American Financial Corporation(2019), Experian(2020).
+
+A04_RyanYauch_ITAI2372: AI In Fraud Detection
+- Goes over different financial institutions and their plans/implementations of AI for fraud prevention.
+- Gives an Overview of the Technology, The Benefits, and The Challenges.
+- Insitutions Used: JP Morgan Chase Bank, Wells Fargo, PayPal, American Express, SwedBank, BNY Mellon, MasterCard. 
