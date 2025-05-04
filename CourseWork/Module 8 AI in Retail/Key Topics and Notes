@@ -1,0 +1,50 @@
+This module goes over the use cases, unsolves issues, and problems created by AI in the Retail Industry
+
+Use Cases:
+Personalized Recommendations:
+- Based off previous purchases, and positive engagement on items to recommend new purchases/services.\
+
+Dynamic Pricing:
+- Can be based off what you're interested in, and what you've paid before for higher priced/expensive products, and hide lower-priced ones.
+- May change if no engagement is seen, offering lower prices at later times to re-interest you.
+
+Inventory Management:
+- Can manage inventory based on trends, seasons, geography, month, and predict the demand.
+- Can automatically order, and increase/decrease amount of items needed.
+
+Customer Service:
+- AI can work at all hours, and give immediate responses.
+- Can automatically detect issues/problems and provide appropriate responses.
+
+Fraud Detection:
+- Based on buying trends, can help prevent fraudlent charges in store and automatically contact owner for prevention.
+
+Visual Search:
+- Can find specific brands, and similar products just from an image of something someone is interested in.
+- Can also be used for stylized recomendations, and products that work together for fashion.
+
+Supply Chain Management:
+- Can find cheaper sources for needed items, how often they get purchased, and optimize who is shipping the product at what time.
+
+Sentiment Analysis:
+- Can simplify and rate an item based on customer reviews for improvements, recommendations, or de-listing of items.
+
+Virtual Try-On:
+- Can get a visual generated image of yourself wearing different items, trying them out before making a purchase.
+
+Store Layout Optimization:
+- Can put essentials/commonly bought items in the back, forcing routes where people may find another items they're interested in.
+
+
+Unsolved Issues:
+Bias (Same as Previous Modules)
+Privacy Concerns (Same as Previous Modules)
+Integration Complexity/Cost (Same as Previous Modules)
+Prediction Accuracy: Not all situations can be properly predicted, like outages or disasters.
+Trust: Trends like adaptive pricing, and targeted advertisements can lead to distrust.
+
+
+Problems Created by AI:
+Over-Personalization: Recommendations based on recently spoken things that weren't publically displayed can cause distrust/concern.
+Overreliance (Same as Previous Modules)
+Ethical Concerns: How far AI delves into personal history, and how simple actions can lead to branded and targeted advertising leads to concern.
